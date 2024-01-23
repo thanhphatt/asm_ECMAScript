@@ -1,0 +1,158 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "đồng hồ châu á "
+    },
+    {
+      "id": 2,
+      "name": "đồng hồ châu âu"
+    },
+    {
+      "id": 3,
+      "name": "đồng hồ châu phi"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "đồng hồ đẹp",
+      "cate_id": 1,
+      "price": 34000000,
+      "detail": "đồng hồ xuất bản từ nhật bản",
+      "image": "w2.png",
+      "star": 4,
+      "sale": 500000
+      
+    },
+    {
+      "id": 2,
+      "name": "đồng hồ xấu ",
+      "cate_id": 1,
+      "price": 12000000,
+      "detail": "đồng hồ xuất bản từ nhật bản ",
+      "image": "w1.png",
+      "star": 1,
+      "sale": 500000
+    },
+    {
+      "id": 3,
+      "name": "đồng hồ xấu ",
+      "cate_id": 1,
+      "price": 12000000,
+      "detail": "đồng hồ xuất bản từ nhật bản ",
+      "image": "w3.png",
+      "star": 1,
+      "sale": 500000
+    },
+    {
+      "id": 4,
+      "name": "đồng hồ xấu ",
+      "cate_id": 2,
+      "price": 12000000,
+      "detail": "đồng hồ xuất bản từ nhật bản ",
+      "image": "w3.png",
+      "star": 1,
+      "sale": 500000
+    },
+    {
+      "id": 5,
+      "name": "đồng hồ xấu ",
+      "cate_id": 2,
+      "price": 12000000,
+      "detail": "đồng hồ xuất bản từ nhật bản ",
+      "image": "w3.png",
+      "star": 1,
+      "sale": 500000
+    },
+    {
+      "id": 6,
+      "name": "đồng hồ xấu ",
+      "cate_id": 2,
+      "price": 12000000,
+      "detail": "đồng hồ xuất bản từ nhật bản ",
+      "image": "w3.png",
+      "star": 1,
+      "sale": 500000
+    },
+    {
+      "id": 7,
+      "name": "đồng hồ xấu ",
+      "cate_id": 3,
+      "price": 12000000,
+      "detail": "đồng hồ xuất bản từ nhật bản ",
+      "image": "w3.png",
+      "star": 1,
+      "sale": 500000
+    },
+    {
+      "id": 8,
+      "name": "đồng hồ xấu ",
+      "cate_id": 3,
+      "price": 12000000,
+      "detail": "đồng hồ xuất bản từ nhật bản ",
+      "image": "w3.png",
+      "star": 1,
+      "sale": 500000
+    },
+    {
+      "id": 9,
+      "name": "đồng hồ xấu ",
+      "cate_id": 3,
+      "price": 12000000,
+      "detail": "đồng hồ xuất bản từ nhật bản ",
+      "image": "w3.png",
+      "star": 1,
+      "sale": 500000
+    }
+  ],
+  "orders": [
+    {
+      "id": "typicode",
+      "customer_name": "33",
+      "customer_address": "some comment",
+      "customer_email": "some comment",
+      "customer_phone_number": "some comment",
+      "created_date": "some comment",
+      "status": "some comment"
+    },
+    {
+      "id": "typicode",
+      "customer_name": "33",
+      "customer_address": "some comment",
+      "customer_email": "some comment",
+      "customer_phone_number": "some comment",
+      "created_date": "some comment",
+      "status": "some comment"
+    },
+    {
+      "id": "typicode",
+      "customer_name": "33",
+      "customer_address": "some comment",
+      "customer_email": "some comment",
+      "customer_phone_number": "some comment",
+      "created_date": "some comment",
+      "status": "some comment"
+    }
+  ],
+  "order_details": [
+    {
+      "order_id": "typicode",
+      "product_id": "typicode",
+      "quantity": "typicode",
+      "unit_price": "acb"
+    },
+    {
+      "order_id": "typicode",
+      "product_id": "typicode",
+      "quantity": "typicode",
+      "unit_price": "acb"
+    },
+    {
+      "order_id": "typicode",
+      "product_id": "typicode",
+      "quantity": "typicode",
+      "unit_price": "acb"
+    }
+  ]
+}
